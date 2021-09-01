@@ -1,2 +1,2 @@
 # Prac1
-Repositorio de prueba
+Repositorio de muestra para BDII
