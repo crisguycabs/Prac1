@@ -1,2 +1,4 @@
 # Prac1
-Repositorio de muestra para BDII
+Crisostomo Barajas
+Bases de datos II
+2021
